@@ -1,0 +1,47 @@
+#home {
+    font-family: 'Arial';
+    color:#777;
+    background: #777;
+    width: '960px';
+    font-size: '18px';
+}
+
+.head1 {
+    background: #ebebeb;
+    width: 495px;
+}
+
+.nav {
+    background: #ebebeb;
+    width: 495px;
+}
+
+.section {
+    background: #ebebeb;
+    width: 495px;
+}
+
+.article {
+    color: #ebebeb;
+    background: #777;
+}
+
+.head2 {
+    color: '#777',
+    background: '#ebebeb'
+}
+
+.pgraph {
+    color: #777;
+    background: #ebebeb;
+}
+
+.aside {
+    background: #ebebeb;
+    width: 495px;
+}
+
+.footer {
+    background: #ebebeb;
+    width: 495px;
+}
