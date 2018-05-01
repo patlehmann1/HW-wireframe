@@ -10,7 +10,6 @@
 .head1 {
     background: #ebebeb;
     text-align: center;
-    clear: both;
     padding: 35px 0px;
     margin: 10px 0px;
 }
@@ -18,7 +17,6 @@
 .nav {
     background: #ebebeb;
     text-align: center;
-    clear: both;
     padding: 35px 0px;
     margin: 10px 0px;
 }
@@ -28,9 +26,9 @@
     margin: 10px 10px 10px 0px;
     background: #ebebeb;
     height: 265px;
-   width: 495px;
-   text-align: center;
-   padding-top: 35px;
+    width: 495px;
+    text-align: center;
+    padding-top: 35px;
 }
 
 .article {
@@ -50,7 +48,6 @@
 }
 
 .pgraph {
-    overflow: auto;
     color: #777;
     background: #ebebeb;
     padding: 15px;
